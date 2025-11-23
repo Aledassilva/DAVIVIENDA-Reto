@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AUTOM Consultar usuarios</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba3ca486-f4cd-4370-989c-16e0fcb50d39</testCaseGuid>
+</TestCaseEntity>
